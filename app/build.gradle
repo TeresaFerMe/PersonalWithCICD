@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.cicdudemy2023'
+    namespace 'com.teresaferme.cicdudemy2023'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.cicdudemy2023"
+        applicationId "com.teresaferme.cicdudemy2023"
         minSdk 28
         targetSdk 33
         versionCode 1
