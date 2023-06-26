@@ -1,4 +1,4 @@
-package com.example.cicdudemy2023
+package com.teresaferme.cicdudemy2023
 
 import org.junit.Test
 

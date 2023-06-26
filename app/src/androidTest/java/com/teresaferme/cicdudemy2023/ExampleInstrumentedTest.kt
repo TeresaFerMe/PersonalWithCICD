@@ -1,4 +1,4 @@
-package com.example.cicdudemy2023
+package com.teresaferme.cicdudemy2023
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
