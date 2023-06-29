@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         AppCenter.start(
-            application, "da838188-eef6-40b0-a013-365589529c33",
+            application, "e30003f9-5277-47e4-8619-1d5994cdf0f1",
             Analytics::class.java, Crashes::class.java
         )
         setContent {
