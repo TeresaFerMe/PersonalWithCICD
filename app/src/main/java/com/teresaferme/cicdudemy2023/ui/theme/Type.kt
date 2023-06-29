@@ -1,4 +1,4 @@
-package com.example.cicdudemy2023.ui.theme
+package com.teresaferme.cicdudemy2023.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

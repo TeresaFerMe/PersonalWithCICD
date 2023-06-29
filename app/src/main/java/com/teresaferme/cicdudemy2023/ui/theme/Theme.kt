@@ -1,4 +1,4 @@
-package com.example.cicdudemy2023.ui.theme
+package com.teresaferme.cicdudemy2023.ui.theme
 
 import android.app.Activity
 import android.os.Build
